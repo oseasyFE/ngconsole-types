@@ -1,0 +1,13 @@
+{
+  "name": "@os-easy/ngconsole-types",
+  "version": "1.0.0",
+  "description": "typescript definitions for ngconsole",
+  "main": "",
+  "types": "index",
+  "author": "zhangyao@os-easy.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oseasyFE/ngconsole-types"
+  }
+}
